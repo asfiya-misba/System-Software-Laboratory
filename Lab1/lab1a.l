@@ -1,3 +1,4 @@
+/*lab program 1a:valid arithmatic expression*/
 %{
 #include<stdlib.h>
 #include<stdio.h>
